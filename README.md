@@ -1,11 +1,11 @@
 ### Hi there!! I'm Ricardo Mello 👋
 
 
-Here you will find some poc projects that i remembered to publish
+Here you will find some projects that i remembered to publish
 
+- 11 years working with software development
 - Currently working as a **Backend developer** at [C6 Bank](https://www.c6bank.com.br) investment team
 - Programming enthusiast
-- Working with kotlin and Kafka
 
 📫 How to reach me:
 - https://www.linkedin.com/in/ricardohsmello/
