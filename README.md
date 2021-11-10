@@ -1,10 +1,10 @@
 ### Hi there!! I'm Ricardo Mello 👋
 
 
-Currently working as a backend developer on the c6 bank investment team
+Currently working as a **Backend developer** on the C6 Bank investment team
 
 - Programming enthusiast
-- Nowadays working with kotlin
+- Working with kotlin and Kafka
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohsmello&layout=compact&count_private=true)
 
