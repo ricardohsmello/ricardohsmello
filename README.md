@@ -1,8 +1,9 @@
 ### Hi there!! I'm Ricardo Mello 👋
 
 
-Currently working as a **Backend developer** on the C6 Bank investment team
+Here you will find some poc projects that i remembered to publish
 
+- Currently working as a **Backend developer** at [C6 Bank](https://www.c6bank.com.br) investment team
 - Programming enthusiast
 - Working with kotlin and Kafka
 
