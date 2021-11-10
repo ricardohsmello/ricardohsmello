@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there!! I'm Ricardo Mello 👋
 
-<!--
-**ricardohsmello/ricardohsmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently working as a backend developer on the c6 bank investment team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming enthusiast
+- Nowadays working with kotlin
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohsmello&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ricardohsmello&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ricardohsmello&hide_border=true)
