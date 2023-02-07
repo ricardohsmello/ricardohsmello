@@ -8,7 +8,9 @@ Here you will find some projects that i remembered to publish
 - Programming enthusiast
 
 📫 How to reach me:
-- https://www.linkedin.com/in/ricardohsmello/
+<div> 
+  <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohsmello&layout=compact&count_private=true)
 
