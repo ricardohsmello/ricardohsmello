@@ -9,7 +9,9 @@ Here you will find some projects that I remembered to publish
 # Find me 📫 
 
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
- - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a>
+ - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a> 
+ - <a href="[https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing](https://medium.com/@ricardohsmello)" target="_blank">Medium</a>
+
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohsmello&layout=compact&count_private=true)
 
