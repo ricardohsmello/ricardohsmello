@@ -19,6 +19,8 @@ Here you will find some projects that I remembered to publish
  - <a href="https://itnext.io/quarkus-with-angular-secured-with-keycloak-pt1-d1c00a4923b8" target="_blank">Quarkus + Angular with Keycloak</a>
  - <a href="https://ricardohsmello.medium.com/implementing-the-observer-pattern-in-a-kotlin-application-381aa117e2f5" target="_blank">Implementing the Observer Pattern in a Kotlin Application</a>
  - <a href="https://itnext.io/exploring-data-visualization-with-grafana-postgresql-docker-7d9cb3fae5e9" target="_blank">Exploring Data Visualization with Grafana/PostgreSQL/Docker</a>
+ - <a href="https://itnext.io/mongodb-atlas-charts-importing-json-file-and-crafting-powerful-visualizations-915e20759a89" target="_blank">MongoDB Atlas | Charts: Crafting Powerful Visualizations using imported JSON Files</a>
+ 
 # GitHub Stats 🖥️
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ricardohsmello&count_private=true&show_icons=true)
