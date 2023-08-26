@@ -28,4 +28,3 @@ Here you will find some projects that I remembered to publish 😄
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohsmello&layout=compact&count_private=true)
 
 
-
