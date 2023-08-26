@@ -15,6 +15,7 @@ Here you will find some projects that I remembered to publish
 # Written Articles ✍️📜
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
  - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
+ - <a href="https://medium.com/javarevisited/what-is-a-binary-tree-1b389b05fec2" target="_blank">What is a Binary Tree?</a>
   
 # GitHub Stats 🖥️
 
