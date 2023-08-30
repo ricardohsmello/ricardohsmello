@@ -1,7 +1,6 @@
 # Hi there 👋
 
 Here you will find some projects that I remembered to publish 😄
-
 - Software Developer focused on server-side over 12 years of experience
 - Currently working as a **Backend developer** at [C6 Bank](https://www.c6bank.com.br) investment team
 - Programming enthusiast
