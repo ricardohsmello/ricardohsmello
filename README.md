@@ -20,6 +20,9 @@ Here you will find some projects that I remembered to publish 😄
  - <a href="https://ricardohsmello.medium.com/implementing-the-observer-pattern-in-a-kotlin-application-381aa117e2f5" target="_blank">Implementing the Observer Pattern in a Kotlin Application</a>
  - <a href="https://itnext.io/exploring-data-visualization-with-grafana-postgresql-docker-7d9cb3fae5e9" target="_blank">Exploring Data Visualization with Grafana/PostgreSQL/Docker</a>
  - <a href="https://itnext.io/mongodb-atlas-charts-importing-json-file-and-crafting-powerful-visualizations-915e20759a89" target="_blank">MongoDB Atlas | Charts: Crafting Powerful Visualizations using imported JSON Files</a>
+ - <a href=" https://ricardohsmello.medium.com/mongodb-relational-migrator-e84c49220cef" target="_blank">MongoDB Relational Migrator | From PostgreSQL to MongoDB Atlas</a>
+
+
  
 # GitHub Stats 🖥️
 
