@@ -22,7 +22,7 @@ Here you will find some projects that I remembered to publish 😄
  - <a href="https://itnext.io/exploring-data-visualization-with-grafana-postgresql-docker-7d9cb3fae5e9" target="_blank">Exploring Data Visualization with Grafana/PostgreSQL/Docker</a>
  - <a href="https://itnext.io/mongodb-atlas-charts-importing-json-file-and-crafting-powerful-visualizations-915e20759a89" target="_blank">MongoDB Atlas | Charts: Crafting Powerful Visualizations using imported JSON Files</a>
  - <a href="https://ricardohsmello.medium.com/mongodb-relational-migrator-e84c49220cef" target="_blank">MongoDB Relational Migrator | From PostgreSQL to MongoDB Atlas</a>
- - <a href="https://ricardohsmello.medium.com/mongodb-compass-optimizing-performance-with-indexes-and-explain-plan-3fc15914a4a7" target="_blank">Improving MongoDB Performance: Indexes and Explain Plan in MongoDB Compass</a>
+ - <a href="https://ricardohsmello.medium.com/mongodb-compass-optimizing-performance-with-indexes-and-explain-plan-3fc15914a4a7" target="_blank">Improving MongoDB Performance | Indexes and Explain Plan in MongoDB Compass</a>
 
 
 # GitHub Stats 🖥️
