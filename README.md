@@ -11,6 +11,7 @@ Here you will find some projects that I remembered to publish 😄
  - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a> 
  - <a href="https://medium.com/@ricardohsmello" target="_blank">Medium</a>
  - <a href="https://dev.to/ricardohsmello" target="_blank">Dev.to</a>
+ - <a href="https://www.youtube.com/@RicasCode" target="_blank">Youtube</a>
  
 # Written Articles ✍️📜
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
