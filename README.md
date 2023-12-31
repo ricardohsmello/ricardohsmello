@@ -6,7 +6,7 @@ Here you will find some projects that I remembered to publish 😄
 - Currently working as a **Backend developer** at [C6 Bank](https://www.c6bank.com.br) investment team
 - Programming enthusiast
 - Below is my participation in the MongoDB webinar where I discuss the Relational Migrator. Check it out:
-- <a href="https://www.mongodb.com/presentations/get-to-know-the-relational-migrator target="_blank">Webinar MongoDB</a>
+- <a href="https://www.mongodb.com/presentations/get-to-know-the-relational-migrator" target="_blank">Webinar MongoDB</a>
 
 # Find me 📫 
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
