@@ -5,6 +5,7 @@ Here you will find some projects that I remembered to publish 😄
 - Software Developer focused on server-side over 12 years of experience
 - Currently working as a **Backend developer** at [C6 Bank](https://www.c6bank.com.br) investment team
 - Programming enthusiast
+- Below is my participation in the MongoDB webinar where I discuss the Relational Migrator. Check it out: <a href="https://www.mongodb.com/presentations/get-to-know-the-relational-migratortarget="_blank">Webinar MongoDB</a>
 
 # Find me 📫 
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
@@ -12,6 +13,7 @@ Here you will find some projects that I remembered to publish 😄
  - <a href="https://medium.com/@ricardohsmello" target="_blank">Medium</a>
  - <a href="https://dev.to/ricardohsmello" target="_blank">Dev.to</a>
  - <a href="https://www.youtube.com/@RicasCode" target="_blank">Youtube</a>
+
  
 # Written Articles ✍️📜
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
