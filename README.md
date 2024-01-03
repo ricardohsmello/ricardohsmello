@@ -25,6 +25,7 @@ Here you will find some projects that I remembered to publish 😄
  - <a href="https://ricardohsmello.medium.com/mongodb-relational-migrator-e84c49220cef" target="_blank">MongoDB Relational Migrator | From PostgreSQL to MongoDB Atlas</a>
  - <a href="https://ricardohsmello.medium.com/mongodb-compass-optimizing-performance-with-indexes-and-explain-plan-3fc15914a4a7" target="_blank">Improving MongoDB Performance | Indexes and Explain Plan in MongoDB Compass</a>
 
+
 # GitHub Stats 🖥️
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ricardohsmello&count_private=true&show_icons=true)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ricardohsmello&hide_border=true)
