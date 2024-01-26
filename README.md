@@ -24,7 +24,7 @@ Here you will find some projects that I remembered to publish 😄
  - <a href="https://itnext.io/mongodb-atlas-charts-importing-json-file-and-crafting-powerful-visualizations-915e20759a89" target="_blank">MongoDB Atlas | Charts: Crafting Powerful Visualizations using imported JSON Files</a>
  - <a href="https://ricardohsmello.medium.com/mongodb-relational-migrator-e84c49220cef" target="_blank">MongoDB Relational Migrator | From PostgreSQL to MongoDB Atlas</a>
  - <a href="https://ricardohsmello.medium.com/mongodb-compass-optimizing-performance-with-indexes-and-explain-plan-3fc15914a4a7" target="_blank">Improving MongoDB Performance | Indexes and Explain Plan in MongoDB Compass</a>
-  - <a href="https://ricardohsmello.medium.com/understanding-mongodb-replication-a-step-by-step-tutorial-on-building-a-replica-set-cluster-b4267e4e2737target="_blank">Understanding MongoDB Replication: A Step-by-Step Replica Set Creation.</a>
+  - <a href="https://ricardohsmello.medium.com/understanding-mongodb-replication-a-step-by-step-tutorial-on-building-a-replica-set-cluster-b4267e4e2737" target="_blank">Understanding MongoDB Replication: A Step-by-Step Replica Set Creation.</a>
 
 
 # GitHub Stats 🖥️
