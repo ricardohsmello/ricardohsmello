@@ -3,6 +3,7 @@
 Here you will find some projects that I remembered to publish 😄
 
 - Software Developer focused on server-side over 13 years of experience
+- MongoDB Community Creator
 - Currently working as a **Backend developer** at [C6 Bank](https://www.c6bank.com.br) investment team
 - Programming enthusiast
 - Below is my participation in the MongoDB webinar where I discuss the Relational Migrator. Check it out: <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Webinar MongoDB</a>
