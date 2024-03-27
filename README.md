@@ -4,8 +4,10 @@ Here you will find some projects that I remembered to publish 😄
 
 - Software Developer focused on server-side over 13 years of experience
 - MongoDB Community Creator / Guest Author
-- Currently working as a **Backend developer** at [C6 Bank](https://www.c6bank.com.br) investment team
+- Currently working as a **Senior Software Engineer** at [C6 Bank](https://www.c6bank.com.br) Instant Payment / Investment Team
 - Programming enthusiast
+  
+# Community Participation 👨‍💻 
 - Below is my participation in the MongoDB webinar where I discuss the Relational Migrator. Check it out: <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Webinar MongoDB</a>
 - My articles published at **MongoDB.com**:
    - <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>  
