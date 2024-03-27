@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Here you will find some projects that I remembered to publish 😄
+Hi there! 👋 Here you'll find some projects that I've remembered to publish 😄:
 
 - Software Developer focused on server-side over 13 years of experience
 - MongoDB Community Creator / Guest Author
