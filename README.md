@@ -7,8 +7,9 @@ Here you will find some projects that I remembered to publish 😄
 - Currently working as a **Backend developer** at [C6 Bank](https://www.c6bank.com.br) investment team
 - Programming enthusiast
 - Below is my participation in the MongoDB webinar where I discuss the Relational Migrator. Check it out: <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Webinar MongoDB</a>
-- My article published at MongoDB.com Check it out: <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>
- - My participation at MongoDB Podcast: <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
+- My articles published at MongoDB.com Check it out:
+   - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
+- My participation at MongoDB Podcast: <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
 
 # Find me 📫 
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
