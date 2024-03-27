@@ -7,9 +7,10 @@ Here you will find some projects that I remembered to publish 😄
 - Currently working as a **Senior Software Engineer** at [C6 Bank](https://www.c6bank.com.br) Instant Payment / Investment Team
 - Programming enthusiast
   
-# Community Participation 👨‍💻 
-- MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out: <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Webinar MongoDB</a>
-- My articles published at **MongoDB.com**:
+# MongoDB Community Participation 👨‍💻 
+- MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out:
+   - <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Webinar MongoDB</a>
+- My articles published at **MongoDB Developer Center**:
    - <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>  
    - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
 - MongoDB Podcast participation:
