@@ -6,6 +6,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 - MongoDB Community Creator / Guest Author
 - Currently working as a **Senior Software Engineer** at [C6 Bank](https://www.c6bank.com.br) Instant Payment / Investment Team
 - Programming enthusiast
+
   
 # MongoDB Community Participation 👨‍💻 
 - Join me in the MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out:
