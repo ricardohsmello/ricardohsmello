@@ -7,7 +7,6 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Currently working as a **Senior Software Engineer** at [C6 Bank](https://www.c6bank.com.br) Instant Payment / Investment Team
 - Programming enthusiast
 
-  
 # MongoDB Participation 👨‍💻 
 - Join me in the MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out:
    - <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Relational Migrator: Speed up the migration process to MongoDB Atlas</a>
