@@ -7,16 +7,6 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Currently working as a **Senior Software Engineer** at [C6 Bank](https://www.c6bank.com.br) Instant Payment / Investment Team
 - Programming enthusiast
 
-# MongoDB Participation 👨‍💻 
-- Join me in the MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out:
-   - <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Relational Migrator: Speed up the migration process to MongoDB Atlas</a>
-- Explore my articles published on the **MongoDB Developer Center**:
-   - <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>  
-   - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
-- Listen to my participation in the MongoDB Podcast:
-   - <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
-
-
 # Find me 📫 
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
  - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a> 
@@ -36,6 +26,20 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://ricardohsmello.medium.com/mongodb-compass-optimizing-performance-with-indexes-and-explain-plan-3fc15914a4a7" target="_blank">Improving MongoDB Performance | Indexes and Explain Plan in MongoDB Compass</a>
  - <a href="https://ricardohsmello.medium.com/understanding-mongodb-replication-a-step-by-step-tutorial-on-building-a-replica-set-cluster-b4267e4e2737" target="_blank">Understanding MongoDB Replication: A Step-by-Step Replica Set Creation.</a>
  - <a href="https://ricardohsmello.medium.com/mongodb-compass-convert-text-into-queries-with-ai-powered-natural-language-f708f9b54b2b" target="_blank">MongoDB Compass — Convert Text into Queries with AI-Powered Natural Language.</a>
+
+# MongoDB Participation 👨‍💻 
+- Join me in the MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out:
+   - <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Relational Migrator: Speed up the migration process to MongoDB Atlas</a>
+- Explore my articles published on the **MongoDB Developer Center**:
+   - <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>  
+   - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
+- Listen to my participation in the MongoDB Podcast:
+   - <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
+
+
+
+
+
    
 # GitHub Stats 🖥️
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ricardohsmello&count_private=true&show_icons=true)
