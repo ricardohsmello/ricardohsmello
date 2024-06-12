@@ -4,7 +4,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 
 - Software Developer focused on server-side over 13 years of experience
 - MongoDB Community Creator / Guest Author
-- Currently working as a **Senior Software Engineer** at [C6 Bank](https://www.c6bank.com.br) Instant Payment / Investment Team
+- Currently working as a **Senior Developer Advocate** at [MongoDB](https://mongodb.com/) Java/Kotlin
 - Programming enthusiast
 
 # Find me 📫 
