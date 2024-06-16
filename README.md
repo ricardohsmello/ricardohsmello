@@ -6,6 +6,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 - MongoDB Community Creator / Guest Author
 - Currently working as a **Senior Developer Advocate** at [MongoDB](https://mongodb.com/) Java/Kotlin
 - Programming enthusiast
+- 
 
 # Find me 📫 
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
