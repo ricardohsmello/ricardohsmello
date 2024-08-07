@@ -33,6 +33,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Explore my articles published on the **MongoDB Developer Center**:
    - <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>  
    - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
+   - <a href="https://www.mongodb.com/developer/products/atlas/kotlin-driver-sync-with-atlas-search/" target="_blank">Discover Your Ideal Airbnb: Implementing a Spring Boot & Atlas Search With Kotlin Sync Driver</a>
 - Listen to my participation in the MongoDB Podcast:
    - <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
  
