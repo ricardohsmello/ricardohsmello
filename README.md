@@ -14,6 +14,8 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://dev.to/ricardohsmello" target="_blank">Dev.to</a>
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
 
+# Latest Content
+
 # Written Articles ✍️📜
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
  - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
