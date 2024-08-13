@@ -15,6 +15,7 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
 
 # Latest Content
+   - <a href="https://www.mongodb.com/developer/products/atlas/kotlin-driver-sync-with-atlas-search/" target="_blank">Discover Your Ideal Airbnb: Implementing a Spring Boot & Atlas Search With Kotlin Sync Driver</a>
 
 # Written Articles ✍️📜
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
