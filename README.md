@@ -17,7 +17,6 @@ Here you'll find some projects that I've remembered to publish 😄:
 # Latest Content 📜
    - <a href="https://youtu.be/b0dkQYcvBkQ?si=u_s9LZRwCplnVGjQ" target="_blank">Video: Building a Kotlin app with Atlas Search</a>
    - <a href="https://www.mongodb.com/developer/products/atlas/kotlin-driver-sync-with-atlas-search/" target="_blank">Discover Your Ideal Airbnb: Implementing a Spring Boot & Atlas Search With Kotlin Sync Driver</a>
-
 # Written Articles ✍️
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
  - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
