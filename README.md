@@ -31,6 +31,7 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://ricardohsmello.medium.com/understanding-mongodb-replication-a-step-by-step-tutorial-on-building-a-replica-set-cluster-b4267e4e2737" target="_blank">Understanding MongoDB Replication: A Step-by-Step Replica Set Creation.</a>
  - <a href="https://ricardohsmello.medium.com/mongodb-compass-convert-text-into-queries-with-ai-powered-natural-language-f708f9b54b2b" target="_blank">MongoDB Compass — Convert Text into Queries with AI-Powered Natural Language.</a>
 
+
 # MongoDB 👨‍💻 🌱
 - Join me in the MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out:
    - <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Relational Migrator: Speed up the migration process to MongoDB Atlas</a>
