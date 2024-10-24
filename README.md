@@ -15,6 +15,8 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
 
 # Latest Content 📜
+
+   - <a href="/" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
    - <a href="https://www.mongodb.com/developer/products/atlas/java-queryable-encryption/" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
    - <a href="https://youtu.be/b0dkQYcvBkQ?si=u_s9LZRwCplnVGjQ" target="_blank">Video: Building a Kotlin app with Atlas Search</a>
 
