@@ -7,7 +7,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Currently working as a **Senior Developer Advocate** at [MongoDB](https://mongodb.com/) Java/Kotlin
 - Programming enthusiast
 
-![Speaking](https://ibb.co/wg2DC5Q)
+![Speaking](https://i.ibb.co/Ws86xs4/speanking.png)
 
 # Find me 📫 
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
