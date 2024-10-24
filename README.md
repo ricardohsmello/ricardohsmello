@@ -7,6 +7,8 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Currently working as a **Senior Developer Advocate** at [MongoDB](https://mongodb.com/) Java/Kotlin
 - Programming enthusiast
 
+![Application Flow](https://i.ibb.co/JHSFdZc/second-flow.png)
+
 # Find me 📫 
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
  - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a> 
