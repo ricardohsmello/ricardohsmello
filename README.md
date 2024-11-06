@@ -14,6 +14,7 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://dev.to/ricardohsmello" target="_blank">Dev.to</a>
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
 
+
 # Latest Content 📜
    - <a href="https://www.youtube.com/watch?v=w4lvxI47QnU&t=1030s&ab_channel=MongoDB" target="_blank">Livestream: Mastering Spring Data MongoDB for Better Developer Productivity</a>
    - <a href="https://www.mongodb.com/developer/products/atlas/java-queryable-encryption/" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
