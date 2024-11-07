@@ -1,4 +1,4 @@
-# Heeey there 👋
+# Hi there 👋
 
 Here you'll find some projects that I've remembered to publish 😄:
 
