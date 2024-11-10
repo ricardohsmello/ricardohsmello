@@ -42,6 +42,7 @@ Here you'll find some projects that I've remembered to publish 😄:
    - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
    - <a href="https://www.mongodb.com/developer/products/atlas/kotlin-driver-sync-with-atlas-search/" target="_blank">Discover Your Ideal Airbnb: Implementing a Spring Boot & Atlas Search With Kotlin Sync Driver</a>
    - <a href="https://www.mongodb.com/developer/products/atlas/java-queryable-encryption/" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
+   - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-getting-started-with-java-mongodb/" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
 - Listen to my participation in the MongoDB Podcast:
    - <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
  
