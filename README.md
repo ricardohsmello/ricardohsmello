@@ -15,9 +15,7 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
 
 # Latest Content 📜
-   - <a href="https://www.youtube.com/watch?v=w4lvxI47QnU&t=1030s&ab_channel=MongoDB" target="_blank">Livestream: Mastering Spring Data MongoDB for Better Developer Productivity</a>
-   - <a href="https://www.mongodb.com/developer/products/atlas/java-queryable-encryption/" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
-   - <a href="https://youtu.be/b0dkQYcvBkQ?si=u_s9LZRwCplnVGjQ" target="_blank">Video: Building a Kotlin app with Atlas Search</a>
+
    - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-getting-started-with-java-mongodb/" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
    - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-advanced-queries-with-mongodb/">Spring Data Unlocked: Advanced Queries With MongoDB</a>
 # Written Articles ✍️
