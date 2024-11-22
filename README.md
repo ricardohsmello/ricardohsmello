@@ -20,6 +20,7 @@ Here you'll find some projects that I've remembered to publish 😄:
    - <a href="https://www.mongodb.com/developer/products/atlas/java-queryable-encryption/" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
    - <a href="https://youtu.be/b0dkQYcvBkQ?si=u_s9LZRwCplnVGjQ" target="_blank">Video: Building a Kotlin app with Atlas Search</a>
    - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-getting-started-with-java-mongodb/" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
+   - 
 # Written Articles ✍️
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
  - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
