@@ -42,6 +42,7 @@ Here you'll find some projects that I've remembered to publish 😄:
    - <a href="https://www.mongodb.com/developer/products/atlas/java-queryable-encryption/" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
    - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-getting-started-with-java-mongodb/" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
    - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-advanced-queries-with-mongodb/" target="blank">Spring Data Unlocked: Advanced Queries With MongoDB</a>
+   - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-performance-optimization-with-mongodb/" target="blank">Spring Data Unlocked: Performance Optimization Techniques With MongoDB</a>
 - MongoDB Podcast:
    - <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
     - <a href="https://www.youtube.com/watch?v=w4lvxI47QnU&t=1551s&ab_channel=MongoDB" target="_blank">Mastering Spring Data MongoDB for Better Developer Productivity
