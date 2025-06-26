@@ -20,6 +20,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 
    - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-getting-started-with-java-mongodb/" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
    - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-advanced-queries-with-mongodb/">Spring Data Unlocked: Advanced Queries With MongoDB</a>
+   - <a href="https://foojay.io/today/clean-and-modular-java-a-hexagonal-architecture-approach/" target="blank">Clean and Modular Java: A Hexagonal Architecture Approach</a>
 # Written Articles ✍️
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
  - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
