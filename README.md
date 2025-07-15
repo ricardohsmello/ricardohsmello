@@ -18,6 +18,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 
 # Latest Content 📜
    - <a href="https://foojay.io/today/clean-and-modular-java-a-hexagonal-architecture-approach/" target="blank">Clean and Modular Java: A Hexagonal Architecture Approach</a>
+   - <a href="https://medium.com/@MongoDB/why-mirroring-production-in-dev-helps-you-avoid-costly-mistakes-7e2c4595c2a1" target="blank">Why Mirroring Production in Dev Helps You Avoid Costly Mistakes</a>
 # Written Articles ✍️
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
  - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
