@@ -10,6 +10,10 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Programming enthusiast
 
 # Find me 📫 
+
+## You can find everything about my portfolio on my website.
+ - <a href="https://www.ricardohsmello.com" target="_blank">www.ricardohsmello.com</a>  
+## Specific Links
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
  - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a> 
  - <a href="https://medium.com/@ricardohsmello" target="_blank">Medium</a>
