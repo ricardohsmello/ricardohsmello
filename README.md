@@ -21,7 +21,7 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
 
 # Latest Content 📜
-- <a href="https://dev.to/mongodb/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields-2ccc" target="blank">Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields</a>
+   - <a href="https://dev.to/mongodb/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields-2ccc" target="blank">Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields</a>
    - <a href="https://foojay.io/today/clean-and-modular-java-a-hexagonal-architecture-approach/" target="blank">Clean and Modular Java: A Hexagonal Architecture Approach</a>
    - <a href="https://medium.com/@MongoDB/why-mirroring-production-in-dev-helps-you-avoid-costly-mistakes-7e2c4595c2a1" target="blank">Why Mirroring Production in Dev Helps You Avoid Costly Mistakes</a>
 # Written Articles ✍️
