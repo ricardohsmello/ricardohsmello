@@ -11,7 +11,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 
 # Find me 📫 
 
-## You can find everything about my portfolio on my website.
+## Would you like to chat? You can schedule a time on my website
  - <a href="https://www.ricardohsmello.com" target="_blank">www.ricardohsmello.com</a>  
 ## Specific Links
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
