@@ -10,16 +10,15 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Programming enthusiast
 
 # Find me 📫 
-
-## Would you like to chat? You can schedule a time on my website
- - <a href="https://www.ricardohsmello.com" target="_blank">www.ricardohsmello.com</a>  
 ## Specific Links
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
  - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a> 
  - <a href="https://medium.com/@ricardohsmello" target="_blank">Medium</a>
  - <a href="https://dev.to/ricardohsmello" target="_blank">Dev.to</a>
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
-
+ 
+## Would you like to chat? You can schedule a time on my website
+ - <a href="https://www.ricardohsmello.com" target="_blank">www.ricardohsmello.com</a>  
 # Latest Content 📜
    - <a href="https://dev.to/mongodb/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields-2ccc" target="blank">Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields</a>
    - <a href="https://foojay.io/today/clean-and-modular-java-a-hexagonal-architecture-approach/" target="blank">Clean and Modular Java: A Hexagonal Architecture Approach</a>
