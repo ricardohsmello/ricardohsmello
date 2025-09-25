@@ -24,6 +24,7 @@ Here you'll find some projects that I've remembered to publish 😄:
    - <a href="https://dev.to/mongodb/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields-2ccc" target="blank">Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields</a>
    - <a href="https://dev.to/mongodb/beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1-3m68" target="blank">Beyond Keywords: Implementing Semantic Search in Java With Spring Data (Part 1)</a>
    - <a href="https://dev.to/mongodb/beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2-4e50" target="blank">Beyond Keywords: Optimizing Vector Search With Filters and Caching (Part 2)</a>
+  - <a href="https://dev.to/mongodb/beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3-5fp3" target="blank">Beyond Keywords: Hybrid Search With Atlas and Vector Search (Part 3)</a>
    
 # Written Articles ✍️
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
