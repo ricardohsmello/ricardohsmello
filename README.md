@@ -23,6 +23,8 @@ Here you'll find some projects that I've remembered to publish 😄:
 # Latest Content 📜
    - <a href="https://dev.to/mongodb/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields-2ccc" target="blank">Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields</a>
    - <a href="https://dev.to/mongodb/beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1-3m68" target="blank">Beyond Keywords: Implementing Semantic Search in Java With Spring Data (Part 1)</a>
+   - <a href="https://dev.to/mongodb/beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2-4e50" target="blank">Beyond Keywords: Optimizing Vector Search With Filters and Caching (Part 2)</a>
+   
 # Written Articles ✍️
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
  - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
