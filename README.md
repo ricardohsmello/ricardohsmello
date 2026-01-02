@@ -16,6 +16,7 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://medium.com/@ricardohsmello" target="_blank">Medium</a>
  - <a href="https://dev.to/ricardohsmello" target="_blank">Dev.to</a>
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
+
  
 ## Would you like to chat? You can schedule a time on my website
  - <a href="https://www.ricardohsmello.com" target="_blank">www.ricardohsmello.com</a>  
