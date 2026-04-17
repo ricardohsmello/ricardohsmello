@@ -23,7 +23,7 @@ Here you'll find some projects that I've remembered to publish 😄:
  - <a href="https://www.ricardohsmello.com" target="_blank">www.ricardohsmello.com</a>  
 # Latest Content 📜
    - <a href="https://foojay.io/today/mongodb-sharding-what-to-know-before-you-shard/" target="blank">MongoDB Sharding: What to Know Before You Shard</a>
-   - <a href="https://dev.to/mongodb/beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1-3m68" target="blank">Beyond Keywords: Implementing Semantic Search in Java With Spring Data (Part 1)</a>
+   - <a href="https://foojay.io/today/building-a-kotlin-app-with-spring-boot-and-mongodb-search/" target="blank">Building a Kotlin App with Spring Boot and MongoDB Search</a>
    - <a href="https://dev.to/mongodb/beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2-4e50" target="blank">Beyond Keywords: Optimizing Vector Search With Filters and Caching (Part 2)</a>
   - <a href="https://dev.to/mongodb/beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3-5fp3" target="blank">Beyond Keywords: Hybrid Search With Atlas and Vector Search (Part 3)</a>
    
