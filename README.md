@@ -46,12 +46,11 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Explore my articles published on the **MongoDB Developer Center**:
    - <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>  
    - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
-   - <a href="https://www.mongodb.com/developer/products/atlas/kotlin-driver-sync-with-atlas-search/" target="_blank">Discover Your Ideal Airbnb: Implementing a Spring Boot & Atlas Search With Kotlin Sync Driver</a>
    
-   - <a href="https://www.mongodb.com/developer/products/atlas/java-queryable-encryption/" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
-   - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-getting-started-with-java-mongodb/" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
-   - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-advanced-queries-with-mongodb/" target="blank">Spring Data Unlocked: Advanced Queries With MongoDB</a>
-   - <a href="https://www.mongodb.com/developer/products/mongodb/springdata-performance-optimization-with-mongodb/" target="blank">Spring Data Unlocked: Performance Optimization Techniques With MongoDB</a>
+   - <a href="https://dev.to/ricardohsmello/java-meets-queryable-encryption-developing-a-secure-bank-account-application-40im" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
+   - <a href="https://dev.to/ricardohsmello/spring-data-unlocked-getting-started-with-java-and-mongodb-49f6" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
+   - <a href="https://dev.to/ricardohsmello/spring-data-unlocked-advanced-queries-with-mongodb-4jef" target="blank">Spring Data Unlocked: Advanced Queries With MongoDB</a>
+   - <a href="https://dev.to/ricardohsmello/spring-data-unlocked-performance-optimization-techniques-with-mongodb-5f5" target="blank">Spring Data Unlocked: Performance Optimization Techniques With MongoDB</a>
 - MongoDB Podcast:
    - <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
     - <a href="https://www.youtube.com/watch?v=w4lvxI47QnU&t=1551s&ab_channel=MongoDB" target="_blank">Mastering Spring Data MongoDB for Better Developer Productivity
