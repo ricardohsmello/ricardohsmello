@@ -55,6 +55,7 @@ Here you'll find some projects that I've remembered to publish 😄:
     - <a href="https://www.youtube.com/watch?v=w4lvxI47QnU&t=1551s&ab_channel=MongoDB" target="_blank">Mastering Spring Data MongoDB for Better Developer Productivity
 </a>
     
+
 # GitHub Stats 🖥️
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ricardohsmello&count_private=true&show_icons=true)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ricardohsmello&hide_border=true)
