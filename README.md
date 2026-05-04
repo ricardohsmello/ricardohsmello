@@ -21,6 +21,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 ## Would you like to chat? You can schedule a time on my website
  - <a href="https://www.ricardohsmello.com" target="_blank">www.ricardohsmello.com</a>  
 # Latest Content 📜
+- <a href="https://dev.to/mongodb/real-time-fraud-detection-in-java-with-kafka-streams-and-vector-similarity-n2a">Real Time Fraud Detection</a>
    - <a href="https://foojay.io/today/mongodb-sharding-what-to-know-before-you-shard/" target="blank">MongoDB Sharding: What to Know Before You Shard</a>
    - <a href="https://foojay.io/today/building-a-kotlin-app-with-spring-boot-and-mongodb-search/" target="blank">Building a Kotlin App with Spring Boot and MongoDB Search</a>
    - <a href="https://dev.to/mongodb/beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2-4e50" target="blank">Beyond Keywords: Optimizing Vector Search With Filters and Caching (Part 2)</a>
