@@ -21,9 +21,8 @@ Here you'll find some projects that I've remembered to publish 😄:
 ## Would you like to chat? You can schedule a time on my website
  - <a href="https://www.ricardohsmello.com" target="_blank">www.ricardohsmello.com</a>  
 # Latest Content 📜
-   - <a href="https://dev.to/mongodb/building-a-kotlin-application-with-quarkus-and-mongodb-a-step-by-step-guide-231l">Building a Kotlin Application with Quarkus and MongoDB: A Step-by-Step Guide</a>
+  - <a href="https://dev.to/mongodb/building-a-kotlin-application-with-quarkus-and-mongodb-a-step-by-step-guide-231l">Building a Kotlin Application with Quarkus and MongoDB: A Step-by-Step Guide</a>
   - <a href="https://dev.to/mongodb/real-time-fraud-detection-in-java-with-kafka-streams-and-vector-similarity-n2a">Real Time Fraud Detection with Kafka Streams and Vector Similarity</a>
-  
 # Written Articles ✍️
  - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
  - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
