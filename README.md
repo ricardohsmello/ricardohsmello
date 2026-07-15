@@ -10,8 +10,7 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Programming enthusiast
 - Creator <a href="https://mongodb-cli-lab.vercel.app/">mongodb-cli-lab</a>
 
-# Find
- me 📫 
+# Find me 📫 
 ## Specific Links
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
  - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a> 
