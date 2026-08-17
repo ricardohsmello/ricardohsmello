@@ -42,7 +42,6 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Explore my articles published on the **MongoDB Developer Center**:
    - <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>  
    - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
-   
    - <a href="https://dev.to/ricardohsmello/java-meets-queryable-encryption-developing-a-secure-bank-account-application-40im" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
    - <a href="https://dev.to/ricardohsmello/spring-data-unlocked-getting-started-with-java-and-mongodb-49f6" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
    - <a href="https://dev.to/ricardohsmello/spring-data-unlocked-advanced-queries-with-mongodb-4jef" target="blank">Spring Data Unlocked: Advanced Queries With MongoDB</a>
