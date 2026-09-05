@@ -4,7 +4,6 @@
 
 Here you'll find some projects that I've remembered to publish 😄:
 
-
 - Software Developer focused on server-side over 16 years of experience
 - Open Source contributor
 - Currently working as a **Senior Developer Advocate** at [MongoDB](https://mongodb.com/) Java/Kotlin
