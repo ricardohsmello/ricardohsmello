@@ -15,27 +15,33 @@ Here you'll find some projects that I've remembered to publish 😄:
 # Find me 📫 
 ## Specific Links
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
- - <a href="https://docs.google.com/document/d/1gM-9FUVwwBFKiLafSFalMJHBRVDAE9b9zKVQROJIou0/edit?usp=sharing" target="_blank">Curriculum</a> 
- - <a href="https://medium.com/@ricardohsmello" target="_blank">Medium</a>
+ - <a href="https://foojay.io/today/author/ricardo-mello/" target="_blank">Foojay</a>
  - <a href="https://dev.to/ricardohsmello" target="_blank">Dev.to</a>
  - <a href="https://www.youtube.com/channel/UC1OioM3DPJL599iYkejNg0Q" target="_blank">Youtube</a>
+
+# Recent Projects
+
+### [Agentic WMS](https://agentic-wms-39763860545.southamerica-west1.run.app/)
+An agentic warehouse management system that analyzes inventory, applies depositor policies, and decides when replenishment is needed.
+
+### [RicasFlix](https://www.ricardohsmello.com/ricas-flix)
+A semantic movie discovery experience powered by natural-language search.
+
+### [RicAI](https://github.com/ricardohsmello/personal-content-rag)
+A personal AI assistant that helps people explore my career, content, talks, events, and projects.
+
+### [MongoDB CLI Lab](https://mongodb-cli-lab.vercel.app/)
+An interactive browser-based environment for learning MongoDB with no installation required.
+
+### [G12 Football Bet](https://youtu.be/gn2cshtgF5U?si=Y-paTNNDMrEstxMU)
+A complete football betting platform built around Java and MongoDB.
+
+[**View all projects →**](https://www.ricardohsmello.com/#projects)
 
 # Latest Content 📜
   - <a href="https://foojay.io/today/building-an-agentic-warehouse-management-system-part-1-where-ai-agents-add-value/">Agentic WMS</a>
   - <a href="https://dev.to/mongodb/building-a-kotlin-application-with-quarkus-and-mongodb-a-step-by-step-guide-231l">Building a Kotlin Application with Quarkus and MongoDB: A Step-by-Step Guide</a>
   - <a href="https://dev.to/mongodb/real-time-fraud-detection-in-java-with-kafka-streams-and-vector-similarity-n2a">Real Time Fraud Detection with Kafka Streams and Vector Similarity</a>
-# Written Articles ✍️
- - <a href="https://medium.com/javarevisited/binary-search-in-java-how-it-works-da479e74da5" target="_blank">Binary Search in Java - How it works?</a>
- - <a href="https://ricardohsmello.medium.com/deploying-a-quarkus-application-to-aws-elastic-beanstalk-73c7a1962a32" target="_blank">Deploying a Quarkus Application to AWS Elastic Beanstalk</a>
- - <a href="https://medium.com/javarevisited/what-is-a-binary-tree-1b389b05fec2" target="_blank">What is a Binary Tree?</a>
- - <a href="https://itnext.io/quarkus-with-angular-secured-with-keycloak-pt1-d1c00a4923b8" target="_blank">Quarkus + Angular with Keycloak</a>
- - <a href="https://ricardohsmello.medium.com/implementing-the-observer-pattern-in-a-kotlin-application-381aa117e2f5" target="_blank">Implementing the Observer Pattern in a Kotlin Application</a>
- - <a href="https://itnext.io/exploring-data-visualization-with-grafana-postgresql-docker-7d9cb3fae5e9" target="_blank">Exploring Data Visualization with Grafana/PostgreSQL/Docker</a>
- - <a href="https://itnext.io/mongodb-atlas-charts-importing-json-file-and-crafting-powerful-visualizations-915e20759a89" target="_blank">MongoDB Atlas | Charts: Crafting Powerful Visualizations using imported JSON Files</a>
- - <a href="https://ricardohsmello.medium.com/mongodb-relational-migrator-e84c49220cef" target="_blank">MongoDB Relational Migrator | From PostgreSQL to MongoDB Atlas</a>
- - <a href="https://ricardohsmello.medium.com/mongodb-compass-optimizing-performance-with-indexes-and-explain-plan-3fc15914a4a7" target="_blank">Improving MongoDB Performance | Indexes and Explain Plan in MongoDB Compass</a>
- - <a href="https://ricardohsmello.medium.com/understanding-mongodb-replication-a-step-by-step-tutorial-on-building-a-replica-set-cluster-b4267e4e2737" target="_blank">Understanding MongoDB Replication: A Step-by-Step Replica Set Creation.</a>
- - <a href="https://ricardohsmello.medium.com/mongodb-compass-convert-text-into-queries-with-ai-powered-natural-language-f708f9b54b2b" target="_blank">MongoDB Compass — Convert Text into Queries with AI-Powered Natural Language.</a>
 
 # MongoDB 👨‍💻 🌱
 - Join me in the MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out:
