@@ -27,15 +27,6 @@ An agentic warehouse management system that analyzes inventory, applies deposito
 ### [RicasFlix](https://www.ricardohsmello.com/ricas-flix)
 A semantic movie discovery experience powered by natural-language search.
 
-### [RicAI](https://github.com/ricardohsmello/personal-content-rag)
-A personal AI assistant that helps people explore my career, content, talks, events, and projects.
-
-### [MongoDB CLI Lab](https://mongodb-cli-lab.vercel.app/)
-An interactive browser-based environment for learning MongoDB with no installation required.
-
-### [G12 Football Bet](https://youtu.be/gn2cshtgF5U?si=Y-paTNNDMrEstxMU)
-A complete football betting platform built around Java and MongoDB.
-
 [**View all projects →**](https://www.ricardohsmello.com/#projects)
 
 # Latest Content 📜
