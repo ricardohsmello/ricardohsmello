@@ -24,9 +24,6 @@ Here you'll find some projects that I've remembered to publish 😄:
 ### [Agentic WMS](https://agentic-wms-39763860545.southamerica-west1.run.app/)
 An agentic warehouse management system that analyzes inventory, applies depositor policies, and decides when replenishment is needed.
 
-### [RicasFlix](https://www.ricardohsmello.com/ricas-flix)
-A semantic movie discovery experience powered by natural-language search.
-
 [**View all projects →**](https://www.ricardohsmello.com/#projects)
 
 # Latest Content 📜
