@@ -8,8 +8,9 @@ Here you'll find some projects that I've remembered to publish 😄:
 - Open Source contributor
 - Currently working as a **Senior Developer Advocate** at [MongoDB](https://mongodb.com/) Java/Kotlin
 - Programming enthusiast
-- Wanna chat? [Talk to me](https://www.ricardohsmello.com/#contact).
 - Creator <a href="https://mongodb-cli-lab.vercel.app/">mongodb-cli-lab</a>
+
+### Wanna chat? [Talk to me](https://www.ricardohsmello.com/#contact).
 
 ![Profile Header](./img/logo.png)
 
