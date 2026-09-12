@@ -34,22 +34,6 @@ A semantic movie discovery experience powered by natural-language search.
   - <a href="https://dev.to/mongodb/building-a-kotlin-application-with-quarkus-and-mongodb-a-step-by-step-guide-231l">Building a Kotlin Application with Quarkus and MongoDB: A Step-by-Step Guide</a>
   - <a href="https://dev.to/mongodb/real-time-fraud-detection-in-java-with-kafka-streams-and-vector-similarity-n2a">Real Time Fraud Detection with Kafka Streams and Vector Similarity</a>
 
-# MongoDB 👨‍💻 🌱
-- Join me in the MongoDB Brazil webinar where I discuss the Relational Migrator. Check it out:
-   - <a href="https://www.mongodb.com/presentations/conheca-o-relational-migrator" target="_blank">Relational Migrator: Speed up the migration process to MongoDB Atlas</a>
-- Explore my articles published on the **MongoDB Developer Center**:
-   - <a href="https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/" target="_blank">Mastering Kotlin: Creating an API With Ktor and MongoDB Atlas</a>  
-   - <a href="https://www.mongodb.com/developer/products/atlas/beyond-basics-enhancing-kotlin-ktor-api-vector-search/" target="_blank">Beyond Basics: Enhancing Kotlin Ktor API With Vector Search</a>
-   - <a href="https://dev.to/ricardohsmello/java-meets-queryable-encryption-developing-a-secure-bank-account-application-40im" target="_blank">Java Meets Queryable Encryption: Developing a Secure Bank Account Application</a>
-   - <a href="https://dev.to/ricardohsmello/spring-data-unlocked-getting-started-with-java-and-mongodb-49f6" target="blank">Spring Data Unlocked: Getting Started With Java and MongoDB</a>
-   - <a href="https://dev.to/ricardohsmello/spring-data-unlocked-advanced-queries-with-mongodb-4jef" target="blank">Spring Data Unlocked: Advanced Queries With MongoDB</a>
-   - <a href="https://dev.to/ricardohsmello/spring-data-unlocked-performance-optimization-techniques-with-mongodb-5f5" target="blank">Spring Data Unlocked: Performance Optimization Techniques With MongoDB</a>
-- MongoDB Podcast:
-   - <a href="https://www.mongodb.com/developer/podcasts/ep-209-navigating-the-mongodb-landscape-with-ricardo-mello-insights-experiences-and-community-contributions/" target="_blank"> Ep. 209 Navigating the MongoDB Landscape with Ricardo Mello: Insights, Experiences, and Community Contributions</a>
-    - <a href="https://www.youtube.com/watch?v=w4lvxI47QnU&t=1551s&ab_channel=MongoDB" target="_blank">Mastering Spring Data MongoDB for Better Developer Productivity
-</a>
-
-
 # GitHub Stats 🖥️
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ricardohsmello&count_private=true&show_icons=true)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ricardohsmello&hide_border=true)
