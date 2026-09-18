@@ -29,9 +29,9 @@ An agentic warehouse management system that analyzes inventory, applies deposito
 [**View all projects →**](https://www.ricardohsmello.com/#projects)
 
 # Latest Content 📜
+  -<a href="https://foojay.io/today/how-i-built-an-ai-assistant-for-my-career-with-java-spring-ai-and-mongodb/">How I Built an AI Assistant for My Career with Java, Spring AI, and MongoDB</a>
   - <a href="https://foojay.io/today/building-an-agentic-warehouse-management-system-part-1-where-ai-agents-add-value/">Agentic WMS (series) </a>
   - <a href="https://dev.to/mongodb/building-a-kotlin-application-with-quarkus-and-mongodb-a-step-by-step-guide-231l">Building a Kotlin Application with Quarkus and MongoDB: A Step-by-Step Guide</a>
-  - <a href="https://dev.to/mongodb/real-time-fraud-detection-in-java-with-kafka-streams-and-vector-similarity-n2a">Real Time Fraud Detection with Kafka Streams and Vector Similarity</a>
 
 # GitHub Stats 🖥️
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ricardohsmello&count_private=true&show_icons=true)
