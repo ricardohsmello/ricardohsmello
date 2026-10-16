@@ -14,7 +14,6 @@ Here you'll find some projects that I've remembered to publish 😄:
 
 ![Profile Header](./img/logo.png)
 
-
 # Find me 📫 
 ## Specific Links
  - <a href="https://www.linkedin.com/in/ricardohsmello/" target="_blank">Linkedin</a>  
